@@ -736,6 +736,8 @@ export const checkIsLiked = (likeList: string[], userId: string) => {
 
 Assets used in the project are [here](https://drive.google.com/file/d/13_7FofRAC3wARqPtAVPi53QNJJRd5RH_/view?usp=sharing)
 
+<br>
+
 ## <a name="more">🚀 More</a>
 
 **Advance your skills with Next.js 14 Pro Course**
