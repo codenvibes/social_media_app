@@ -513,6 +513,8 @@ export enum QUERY_KEYS {
 }
 ```
 
+<br>
+
 </details>
 
 <details>
@@ -586,6 +588,8 @@ module.exports = {
   plugins: [require('tailwindcss-animate')],
 };
 ```
+
+<br>
 
 </details>
 
