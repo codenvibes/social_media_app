@@ -26,6 +26,7 @@
 6. 🔗 [Links](https://github.com/codenvibes/social_media_app?tab=readme-ov-file#-links)
 7. 🚀 [More](https://github.com/codenvibes/social_media_app?tab=readme-ov-file#-more)
 
+<br>
 
 ## <a name="introduction">🤖 Introduction</a>
 
