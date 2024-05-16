@@ -750,12 +750,5 @@ export const checkIsLiked = (likeList: string[], userId: string) => {
 
 <br>
 
-## <a name="links">🔗 Links</a>
-
-Assets used in the project are [here](https://drive.google.com/file/d/13_7FofRAC3wARqPtAVPi53QNJJRd5RH_/view?usp=sharing)
-
-
-<br>
-
 <h3 align="center"><a href="https://github.com/codenvibes/wire_alx/blob/master/NOTES.md">Notes</a></h3>
 <p align="center">※※※※※※※※※※※※</p>
