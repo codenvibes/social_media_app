@@ -18,9 +18,9 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
+1. 🤖 [Introduction](https://github.com/codenvibes/social_media_app?tab=readme-ov-file#-introduction)
+2. ⚙️ [Tech Stack](https://github.com/codenvibes/social_media_app?tab=readme-ov-file#%EF%B8%8F-tech-stack)
+3. 🔋 [Features](https://github.com/codenvibes/social_media_app?tab=readme-ov-file#-features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
