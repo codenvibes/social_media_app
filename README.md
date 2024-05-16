@@ -16,7 +16,7 @@
 
 <hr>
 
-<h3>📋 Table of Contents</h3>
+<h2>📋 Table of Contents</h2>
 <ol>
   <li><a>🤖 Introduction</a></li>
 </ol>
