@@ -23,8 +23,6 @@
 3. 🔋 [Features](https://github.com/codenvibes/social_media_app?tab=readme-ov-file#-features)
 4. 🤸 [Quick Start](https://github.com/codenvibes/social_media_app?tab=readme-ov-file#-quick-start)
 5. 🕸️ [Snippets](https://github.com/codenvibes/social_media_app?tab=readme-ov-file#%EF%B8%8F-snippets)
-6. 🔗 [Links](https://github.com/codenvibes/social_media_app?tab=readme-ov-file#-links)
-7. 🚀 [More](https://github.com/codenvibes/social_media_app?tab=readme-ov-file#-more)
 
 <br>
 
