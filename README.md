@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
 </div>
 
-<p align="center">An Instagram Clone</p>
+<p align="center"><b>An Instagram Clone</b></p>
 
 <br>
 
