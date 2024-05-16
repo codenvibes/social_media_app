@@ -14,7 +14,7 @@
 
 <p align="center">An Instagram Clone</p>
 
-<hr>
+<br>
 
 <h2>📋 Table of Contents</h2>
 <ol>
