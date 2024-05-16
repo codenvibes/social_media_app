@@ -730,6 +730,8 @@ export const checkIsLiked = (likeList: string[], userId: string) => {
 
 </details>
 
+<br>
+
 ## <a name="links">🔗 Links</a>
 
 Assets used in the project are [here](https://drive.google.com/file/d/13_7FofRAC3wARqPtAVPi53QNJJRd5RH_/view?usp=sharing)
