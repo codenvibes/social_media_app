@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://github.com/codenvibes/social_media_app/blob/master/public/assets/images/project_banner.png" alt="Project Banner">
   
-<br
+<br>
 
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
