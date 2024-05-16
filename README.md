@@ -16,6 +16,11 @@
 
 <hr>
 
+<h3>📋 Table of Contents</h3>
+<ol>
+  <li><a>🤖 Introduction</a></li>
+</ol>
+
 <br>
 
 <h3 align="center"><a href="https://github.com/codenvibes/wire_alx/blob/master/NOTES.md">Notes</a></h3>
