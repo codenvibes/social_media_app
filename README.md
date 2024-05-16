@@ -71,6 +71,8 @@ Explore social media with this user-friendly platform that has a nice look and l
 
 and many more, including code architecture and reusability 
 
+<br>
+
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
@@ -121,6 +123,8 @@ npm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+<br>
 
 ## <a name="snippets">🕸️ Snippets</a>
 
