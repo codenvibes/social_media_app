@@ -1,9 +1,3 @@
-<div align="center"><img src="https://github.com/codenvibes/wire_alx/blob/master/public/assets/images/wire_logo.svg" alt="Project Logo"></div>
-
-<hr>
-
-<div align="center"></div>
-
 <div align="center">
     <img src="https://github.com/codenvibes/social_media_app/blob/master/public/assets/images/project_banner.png" alt="Project Banner">
   <br />
@@ -16,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
   </div>
 
-
+<hr>
 
 <br>
 
