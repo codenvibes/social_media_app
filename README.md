@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="https://github.com/codenvibes/social_media_app/blob/master/public/assets/images/project_banner.png" alt="Project Banner">
+  <img src="https://github.com/codenvibes/social_media_app/blob/master/public/assets/images/project_banner.png" alt="Project Banner">
   
-<br>
+  <br>
 
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
@@ -17,5 +17,5 @@
 
 <br>
 
-<h3><a href="https://github.com/codenvibes/wire_alx/blob/master/NOTES.md">Notes</a></h3>
+<h3 align="center"><a href="https://github.com/codenvibes/wire_alx/blob/master/NOTES.md">Notes</a></h3>
 <p align="center">※※※※※※※※※※※※</p>
