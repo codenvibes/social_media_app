@@ -5,7 +5,7 @@
 <div align="center"></div>
 
 <div align="center">
-    <img src="" alt="Project Banner">
+    <img src="https://github.com/codenvibes/social_media_app/blob/master/public/assets/images/project_banner.png" alt="Project Banner">
   <br />
 
   <div>
