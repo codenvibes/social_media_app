@@ -43,6 +43,8 @@ Explore social media with this user-friendly platform that has a nice look and l
 - Shadcn
 - Tailwind CSS
 
+<br>
+
 ## <a name="features">🔋 Features</a>
 
 👉 **Authentication System**: A robust authentication system ensuring security and user privacy
