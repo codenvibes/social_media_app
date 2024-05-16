@@ -94,6 +94,8 @@ git clone https://github.com/codenvibes/social_media_app.git
 cd social_media_app
 ```
 
+<br>
+
 ### Installation
 
 Install the project dependencies using npm:
