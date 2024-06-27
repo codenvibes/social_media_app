@@ -747,5 +747,5 @@ export const checkIsLiked = (likeList: string[], userId: string) => {
 
 <br>
 
-<h3 align="center"><a href="https://github.com/codenvibes/wire_alx/blob/master/NOTES.md">Notes</a></h3>
+<h3 align="center"><a href="https://github.com/codenvibes/social_media_app/blob/master/NOTES.md">Notes</a></h3>
 <p align="center">※※※※※※※※※※※※</p>
